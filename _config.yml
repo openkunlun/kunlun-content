@@ -78,3 +78,5 @@ theme: anatole
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
+  repo: git@git.kunlun:kunlun/kunlun-content.git
+  branch: pages
