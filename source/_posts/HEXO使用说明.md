@@ -1,6 +1,8 @@
 ---
 title: HEXO使用说明
 date: 2017-09-12
+tags: hexo
+author: KUNLUN Lab
 ---
 
 #### 环境搭建
